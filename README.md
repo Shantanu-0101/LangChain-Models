@@ -1,2 +1,2 @@
-# LangChain-Models
-Codes related to the model component in LangChain.
+# LangChain Models.
+Code related to the model component in LangChain.
